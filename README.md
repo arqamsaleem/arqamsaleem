@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a passionate WordPress and Fullstack Web Developer from Pakistan. 
+I'm a passionate WordPress and Fullstack Web Developer from Pakistan.
 
 💻 _- WordPress and Fullstack developer at Toptal — June 2021 to Present_
 💻 _- Web Designer at Constellation1 via Contour Software — Nov 2020 to Present_
