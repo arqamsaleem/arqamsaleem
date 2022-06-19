@@ -2,12 +2,11 @@
 
 I'm a passionate WordPress and Fullstack Web Developer from Pakistan.
 
-💻 _- WordPress and Fullstack developer at Toptal — June 2021 to Present_
-💻 _- Web Designer at Constellation1 via Contour Software — Nov 2020 to Present_
-💻 _- WordPress Developer at Ilmigo — Aug 2020 to Oct 2020_
-💻 _- WordPress Developer at Computan — May 2019 to Aug 2020_
-💻 _- Junior Wordpress Developer at Gillan eSolutions — Jul 2018 to Apr 2019_
-
+- 💻 _WordPress and Fullstack developer at Toptal — June 2021 to Present_
+- 💻 _Web Designer at Constellation1 via Contour Software — Nov 2020 to Present_
+- 💻 _WordPress Developer at Ilmigo — Aug 2020 to Oct 2020_
+- 💻 _WordPress Developer at Computan — May 2019 to Aug 2020_
+- 💻 _Junior Wordpress Developer at Gillan eSolutions — Jul 2018 to Apr 2019_
 
 📫 - How to reach me: arqamsaleem@gmail.com or [Linkedin](https://www.linkedin.com/in/arqam-saleem-5a3230107/)
 
